@@ -5,14 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Profile_Activity">
+
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="200dp"
         android:text="@string/welcome"
-        android:textSize="50sp"
         android:textColor="@color/purple_200"
+        android:textSize="50sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -35,6 +36,7 @@
 
             <Button
                 android:id="@+id/name1"
+                android:background="@layout/button_shape"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/name1"
@@ -42,17 +44,18 @@
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="20sp"
-                android:padding="35dp"
+                android:padding="15dp"
                 tools:layout_editor_absoluteX="65dp"
                 tools:layout_editor_absoluteY="150dp" />
 
             <Button
                 android:id="@+id/name2"
+                android:background="@layout/button_shape"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="@string/name2"
-                android:padding="35dp"
+                android:padding="15dp"
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="20sp"
@@ -71,11 +74,12 @@
 
             <Button
                 android:id="@+id/name3"
+                android:background="@layout/button_shape"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/name3"
                 android:gravity="center"
-                android:padding="35dp"
+                android:padding="15dp"
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="20sp"
@@ -87,7 +91,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/name4"
-                android:padding="35dp"
+                android:background="@layout/button_shape"
+                android:padding="15dp"
                 android:gravity="center"
                 android:textAlignment="center"
                 android:textColor="@color/black"
@@ -102,4 +107,6 @@
 
 
     </TableLayout>
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

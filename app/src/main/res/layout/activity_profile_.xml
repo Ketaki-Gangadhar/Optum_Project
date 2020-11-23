@@ -10,13 +10,15 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
-        android:text="@string/welcome"
-        android:textColor="@color/purple_200"
-        android:textSize="50sp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:text="It's your time to heal..."
+        android:textColor="@color/black"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@id/imageView" />
 
     <TableLayout
         android:id="@+id/tableLayout"
@@ -77,7 +79,7 @@
                 android:background="@layout/button_shape"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/name3"
+                android:text="OpenUp"
                 android:gravity="center"
                 android:padding="15dp"
                 android:textAlignment="center"
@@ -90,7 +92,7 @@
                 android:id="@+id/name4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/name4"
+                android:text="Precautions"
                 android:background="@layout/button_shape"
                 android:padding="15dp"
                 android:gravity="center"
@@ -107,6 +109,15 @@
 
 
     </TableLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/health" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

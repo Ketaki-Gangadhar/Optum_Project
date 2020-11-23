@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Optum_Project</string>
+    <string name="code">Enter Verification Code</string>
+    <string name="phoneNumber">Enter Phone Number</string>
+    <string name="send">Send Code</string>
+    <string name="health">Health Support</string>
+    <string name="create">Create Account</string>
+    <string name="login">Log In</string>
+    <string name="welcome">WelCome</string>
+    <string name="name1">Counselling</string>
+    <string name="name2">Suggestions</string>
+    <string name="name3">Chat Box</string>
+    <string name="name4">Sessions</string>
+    <string name="full_name">Full name</string>
+
+    <string name="email_address">Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_login_here">Already have Account? LogIn Here</string>
+    <string name="create_new_account">Create New Account</string>
+</resources>

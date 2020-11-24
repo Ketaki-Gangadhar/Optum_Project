@@ -34,9 +34,9 @@ Then there is a main activity which shows four different sections build using ta
 <br>Click on view raw, then it will start downloading a file.
 <br>Take this file to your phone.
 <br>Open <b> My Files</b> folder and then apk files.
-<br>Open <b>uncage.apk</b>and intall app.<br>
+<br>Open <b>uncage.apk</b> and install app.<br>
 <h3>Presentation</h3><br>
-Find our project presentation [here](https://drive.google.com/file/d/1JnIQkhaDN4pQ4fpPOlbZYYBWOnKWHaxV/view?usp=drivesdk)<br>
+Find our project presentation(https://drive.google.com/file/d/1JnIQkhaDN4pQ4fpPOlbZYYBWOnKWHaxV/view?usp=drivesdk)<br>
 
 <h3>Checkout Screenshots here:</h3><br>
 

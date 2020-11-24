@@ -9,24 +9,7 @@ Native Android Development (JAVA + XML). It  is  provided by the login facility.
 Then there is a set of questions to analysis the current mental state of users.<br>
 Above activities employ the use of scroll view, linear layout, buttons, text views, etc.<br>
 Then there is a main activity which shows four different sections build using table layout.<br><br>
- These are: <br><br>
-<b> 1.Counselling<br></b>
- This section have site links which recommend doctors in case user need it . User will  <br>
- be able to get information about counselllor or psychiatrist.<br>
-
-<b> 2.Suggestions<br></b>
- This  section suggests  few  positive activities and  gives  good vibes and calmness. This <br>
- contains  few  motivating books recommendation  or  link  of meditation activities , etc. This <br>
- will help our user in healing and relaxing and divert mind from the cause of depression or mental illness.<br>
-
- <b>3.Open up <br></b>
- This section has a text facility in which user can write own experiences without revealing  identity.<br>
- Moreover user can read other persons experience too . Its a platform to open up one’s feelings.<br>
-
- <b>4.HealthCare<br></b>
- User will give the information about any health issues and accordingly our app will help to manage care plans,medication<br>
- and immunization (data given by optum) . We are looking forward to add some features of tips and lifestyle in future.<br>
-
+These sections are <b> Counselling, Healthcare, Openup</b> and <b> Suggestions.</b><br>
 
 <h3>How to install app in your Phone</h3>
 
@@ -35,8 +18,10 @@ Then there is a main activity which shows four different sections build using ta
 <br>Take this file to your phone.
 <br>Open <b> My Files</b> folder and then apk files.
 <br>Open <b>uncage.apk</b> and install app.<br>
+
 <h3>Presentation</h3><br>
-Find our project presentation(https://drive.google.com/file/d/1JnIQkhaDN4pQ4fpPOlbZYYBWOnKWHaxV/view?usp=drivesdk)<br>
+Find our project presentation(https://drive.google.com/file/d/1gQKGRtarqBjheIia6LhLjP37wh8z2Sy6/view?usp=sharing)<br>
+
 <h3>Our Team:</h3><br><b>
  Ashwini patel<br>
  Gunjeeta jain<br>

@@ -31,4 +31,5 @@
     <string name="s8">Q. Do your mood changes very frequently from high to low?</string>
     <string name="s9">Q. Do you withdrawal from friends and activities?</string>
     <string name="s10">Q. Do you consume drugs or alcohol?</string>
+    <string name="submit">Submit</string>
 </resources>

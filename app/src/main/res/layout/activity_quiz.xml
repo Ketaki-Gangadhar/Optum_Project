@@ -48,7 +48,7 @@
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup"
+                android:id="@+id/radio_group1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -56,18 +56,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd11"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd12"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd13"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -82,11 +85,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s2"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup1"
+                android:id="@+id/radio_group2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -94,18 +97,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd21"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd22"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd23"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -120,11 +126,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s3"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup2"
+                android:id="@+id/radio_group3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -132,18 +138,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd31"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd32"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd33"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -158,11 +167,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s4"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup3"
+                android:id="@+id/radio_group4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -170,18 +179,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd41"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd42"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd43"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -196,11 +208,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s5"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup4"
+                android:id="@+id/radio_group5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -208,18 +220,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd51"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd52"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd53"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -234,11 +249,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s6"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup5"
+                android:id="@+id/radio_group6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -246,18 +261,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd61"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd62"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd63"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -272,11 +290,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s7"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup6"
+                android:id="@+id/radio_group7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -284,18 +302,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd71"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd72"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd73"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -310,11 +331,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s8"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup7"
+                android:id="@+id/radio_group8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -322,18 +343,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd81"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd82"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd83"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -342,17 +366,18 @@
 
             </RadioGroup>
             <TextView
+
                 android:id="@+id/tv9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingTop="10dp"
                 android:text="@string/s9"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup8"
+                android:id="@+id/radio_group9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -360,18 +385,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd91"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd92"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd93"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -386,11 +414,11 @@
                 android:paddingTop="10dp"
                 android:text="@string/s10"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <RadioGroup
-                android:id="@+id/radioGroup9"
+                android:id="@+id/radio_group10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -398,18 +426,21 @@
                 app:layout_constraintTop_toBottomOf="@id/textView2">
 
                 <RadioButton
+                    android:id="@+id/rd101"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/yes"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd102"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/no"
                     android:textColor="@color/black" />
 
                 <RadioButton
+                    android:id="@+id/rd103"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sometimes"
@@ -422,13 +453,13 @@
                 android:id="@+id/submit_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Submit"
+                android:text="@string/submit"
                 android:textSize="20sp" />
+
             <Button
                 android:id="@+id/submit_button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Submit"
                 android:visibility="invisible"
                 android:textSize="20sp" />
 

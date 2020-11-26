@@ -1,14 +1,14 @@
 # UnCage
 ### It's time to heal Yourself!
 
-In  this racing  life  our stress  meter is increasing  really  fast. Everyone<br>
-do care for physical fitness but our  motive is to  aware people about  mental <br>
-fitness also. Hence we created an app which will help people to cope  up  with<br>
-stress , depression or mental illness. Our app is made in Android Studio using<br>
-Native Android Development (JAVA + XML). It  is  provided by the login facility. <br>
-Then there is a set of questions to analysis the current mental state of users.<br>
-Above activities employ the use of scroll view, linear layout, buttons, text views, etc.<br>
-Then there is a main activity which shows four different sections build using table layout.<br><br>
+In  this racing  life  our stress  meter is increasing  really  fast. Everyone
+do care for physical fitness but our  motive is to  aware people about  mental 
+fitness also. Hence we created an app which will help people to cope  up  with
+stress , depression or mental illness. Our app is made in Android Studio using
+Native Android Development (JAVA + XML). It  is  provided by the login facility. 
+Then there is a set of questions to analysis the current mental state of users.
+Above activities employ the use of scroll view, linear layout, buttons, text views, etc.
+Then there is a main activity which shows four different sections build using table layout.<br>
 These sections are <b> Counselling, Healthcare, Openup</b> and <b> Suggestions.</b><br>
 
 <h3>How to install app in your Phone</h3>

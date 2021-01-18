@@ -14,7 +14,7 @@ These sections are <b> Counselling, Healthcare, Openup</b> and <b> Suggestions.<
 <h3>How to install app in your Phone</h3>
 
  Go to <b>uncage.apk</b> file.
-<br>Click on view raw, then it will start downloading a file.
+<br>Download the file.
 <br>Take this file to your phone.
 <br>Open <b> My Files</b> folder and then apk files.
 <br>Open <b>uncage.apk</b> and install app.<br>
